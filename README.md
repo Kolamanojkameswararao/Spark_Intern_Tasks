@@ -1,4 +1,4 @@
-# Spark_Intern_Tasks
+# Spark_Internship_Tasks
 Various tasks were assigned as part of the internship at spark foundation.
 
 
